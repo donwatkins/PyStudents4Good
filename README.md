@@ -4,4 +4,7 @@ The girls served by the program will come from area school districts with whom S
 
 All students will receive a PDF copy of [Python for Kids](https://nostarch.com/pythonforkids) and [Teach Your Kids to Code](https://nostarch.com/teachkids). All students will have access to a Github respository which contain all learning materials, sample code and other educational materials.  
 
+****
+Unless otherwise specified, everything in this repository is covered by the following licence:
 
+Creative Commons Attribution-ShareAlike 4.0 International
