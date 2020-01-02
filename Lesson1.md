@@ -15,4 +15,4 @@ The Mu Editor comes with the software included with your Raspberry Pi computer.
 ![Code with Mu](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/CodeWithMu.png)
 
 ### We need to learn how to use our Mu Editor. Here is a great tutorial which will get us started on our Python Learning Journey. 
-[Code with Mu Tutorial](https://codewith.mu/en/tutorials/1.0/start)
+### [Code with Mu Tutorial](https://codewith.mu/en/tutorials/1.0/start)
