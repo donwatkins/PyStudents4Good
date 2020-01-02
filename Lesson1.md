@@ -16,3 +16,12 @@ The Mu Editor comes with the software included with your Raspberry Pi computer.
 
 ### We need to learn how to use our Mu Editor. Here is a great tutorial which will get us started on our Python Learning Journey. 
 ### [Code with Mu Tutorial](https://codewith.mu/en/tutorials/1.0/start)
+
+____
+
+### At the REPL (Read, Evaluate, Print, Loop) enter the following expressions
+2 + 3
+2 * 3 
+3/5
+2 **4
+
