@@ -25,3 +25,18 @@ ____
 * 3/5
 * 2 **4
 #### What happened? 
+----
+### Order of operations
+* '+' = Addition
+
+* '-' = Subtraction
+
+* '/' = Division
+
+* '*' = Multiplication
+
+* '**' = Exponent
+
+* '//' = Integer division
+
+* '%' = Modulus remainder
