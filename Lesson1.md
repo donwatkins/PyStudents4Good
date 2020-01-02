@@ -20,8 +20,8 @@ The Mu Editor comes with the software included with your Raspberry Pi computer.
 ____
 
 ### At the REPL (Read, Evaluate, Print, Loop) enter the following expressions
-2 + 3
-2 * 3 
-3/5
-2 **4
+* 2 + 3
+* 2 * 3 
+* 3/5
+* 2 **4
 
