@@ -44,7 +44,7 @@ ____
 
 * '%' = Modulus remainder
 ----
-### You can also enter code. One line at a time in the REPL. Here is our first program using the "print" function. 
+### You can also enter code one line at a time in the REPL. Here is our first program using the "print" function. 
 ![Hello World](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/HelloWorld.png)
 
 ### Use the "print" function to enter your name in the REPL. Here is the sample code: 
