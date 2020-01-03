@@ -43,3 +43,6 @@ ____
 * '//' = Integer division
 
 * '%' = Modulus remainder
+----
+You can also enter code. One line at a time in the REPL. Here is our first program using the "print" function. 
+![Hello World]
