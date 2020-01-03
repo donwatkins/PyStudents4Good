@@ -18,6 +18,8 @@ The Mu Editor comes with the software included with your Raspberry Pi computer.
 ### [Code with Mu Tutorial](https://codewith.mu/en/tutorials/1.0/start)
 
 ____
+### We can enter code in the REPL (Read, Evaluate, Print, Loop). The REPL is pictured below. 
+
 
 ### At the REPL (Read, Evaluate, Print, Loop) enter the following expressions
 * 2 + 3
