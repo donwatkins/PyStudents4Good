@@ -22,7 +22,7 @@ ____
 ![REPL](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/Mu_REPL.png)
 
 
-### At the REPL (Read, Evaluate, Print, Loop) enter the following expressions
+### At the REPL enter the following expressions
 * 2 + 3
 * 2 * 3 
 * 3/5
