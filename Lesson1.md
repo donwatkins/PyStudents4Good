@@ -19,6 +19,7 @@ The Mu Editor comes with the software included with your Raspberry Pi computer.
 
 ____
 ### We can enter code in the REPL (Read, Evaluate, Print, Loop). The REPL is pictured below. 
+![REPL](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/Mu_REPL.png)
 
 
 ### At the REPL (Read, Evaluate, Print, Loop) enter the following expressions
@@ -26,7 +27,7 @@ ____
 * 2 * 3 
 * 3/5
 * 2 **4
-#### What happened? 
+### What happened? 
 ----
 ### Order of operations
 * '+' = Addition
