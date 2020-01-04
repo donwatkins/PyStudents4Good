@@ -57,7 +57,7 @@ ____
  Variables play an important role in Python. They hold values that we assign to them. Some variables are "string' variables that contain strings of text. There are variables that contain integers. Those are numeric values like 1,2,100, etc. There also variables that contain floating point values like "1.5, 2.10, 3.15" etc. 
 ![Variables by Type](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/variable_types.png)
 
-Variables are like labels. We can add, subtract, multiply and divide variables that are type integer and float.We can add string variables to each other but we cannot subtract, multiply or divide them. Let's assign some variables and perform some mathematics with them. 
+Variables are like labels. We can add, subtract, multiply and divide variables that are type integer and float.We can add string variables to each other but we cannot subtract, multiply or divide them. Using the REPL, let's assign some variables and perform some mathematics with them. 
 * pizzas = 10
 * cost_per_pizza = 4.00
 * total_cost = pizzas * cost_per_pizza
