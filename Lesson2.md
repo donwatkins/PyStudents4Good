@@ -18,13 +18,14 @@ There are many functions in Python. We have already used the 'print' function. N
 ![import turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/import_turtle.png)
 ### Notice that we can tell the turtle to move forward with the 'turtle.forward(100)' command. You will see this 'dot' notation more and more in our exploration of Python. Let's draw a square. Enter these commands:
 ```` python
-* turtle.forward(100)
-* turtle.right(90)
-* turtle.forward(100)
-* turtle.right(90)
-* turtle.forward(100)
-* turtle.right(90)
-* turtle.forward(100)
+import turtle
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
 
 ### Now we want to write our first program using the the 'turtle' function and save it.  We begin by clicking on the 'New' button in Mu. Then we enter "import turtle.' Add a comment at the top of your file. What are the next lines of code? Be sure to 'Save' and then 'Run' your program. 
 ![First Turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/FirstTurtleProgram.png)
