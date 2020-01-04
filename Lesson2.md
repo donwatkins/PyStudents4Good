@@ -33,6 +33,8 @@ There are many functions in Python. We have already used the 'print' function. N
 ![Turtle For Loop](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/TurtleForLoop.png)
 ### Note what changed. We imported 'turtle' by specified it as a variable 't'. Then we used a 'for' loop together with the 'range' function to eliminate some of code and we still finished with a nice square. Be sure to do this yourself and save your work. 
 
+### Let's have some more fun and generate something more exciting than a square. Change the 'range' value to 100 and the turn angle to 91. What happened? 
+
 
 
 
