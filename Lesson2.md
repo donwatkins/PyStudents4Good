@@ -26,7 +26,8 @@ turtle.right(90)
 turtle.forward(100)
 turtle.right(90)
 turtle.forward(100) ```
-
+```
+----
 ### Now we want to write our first program using the the 'turtle' function and save it.  We begin by clicking on the 'New' button in Mu. Then we enter "import turtle.' Add a comment at the top of your file. What are the next lines of code? Be sure to 'Save' and then 'Run' your program. 
 ![First Turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/FirstTurtleProgram.png)
 ---
@@ -37,12 +38,12 @@ turtle.forward(100) ```
 ### Let's have some more fun and generate something more exciting than a square. Change the 'range' value to 100 and the turn angle to 91. What happened? 
 
 Another iteration: 
-``` python
+```
 import turtle as t
 for x in range(100):
   t.forward(x)
   t.left(91)
-```
+  ```
 
 
 
