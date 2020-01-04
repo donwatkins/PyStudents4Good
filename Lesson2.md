@@ -15,6 +15,7 @@ Entering code in the REPL can give us immediate feedback but we need to write th
 
 ## Turtle function
 There are many functions in Python. We have already used the 'print' function. Now we are going to use the 'turtle' function. We have to import it first. We do that by entering 'import turtle' in the REPL. 
+![import turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/import_turtle.png)
 
 
 
