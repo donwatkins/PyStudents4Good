@@ -36,10 +36,11 @@ There are many functions in Python. We have already used the 'print' function. N
 ### Let's have some more fun and generate something more exciting than a square. Change the 'range' value to 100 and the turn angle to 91. What happened? 
 
 Another iteration: 
-* import turtle as t
-* for x in range(100):
-* t.forward(x)
-* t.left(91)
+``` python
+import turtle as t
+for x in range(100):
+t.forward(x)
+t.left(91)
 
 
 
