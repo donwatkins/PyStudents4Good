@@ -17,7 +17,7 @@ Entering code in the REPL can give us immediate feedback but we need to write th
 There are many functions in Python. We have already used the 'print' function. Now we are going to use the 'turtle' function. We have to import it first. We do that by entering 'import turtle' in the REPL. 
 ![import turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/import_turtle.png)
 ### Notice that we can tell the turtle to move forward with the 'turtle.forward(100)' command. You will see this 'dot' notation more and more in our exploration of Python. Let's draw a square. Enter these commands:
-```
+```python
 import turtle
 turtle.forward(100)
 turtle.right(90)
@@ -38,7 +38,7 @@ turtle.forward(100)
 ### Let's have some more fun and generate something more exciting than a square. Change the 'range' value to 100 and the turn angle to 91. What happened? 
 
 Another iteration: 
-```
+```python
 import turtle as t
 for x in range(100):
   t.forward(x)
