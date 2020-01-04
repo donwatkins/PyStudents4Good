@@ -39,7 +39,7 @@ turtle.forward(100)
 
 ### Let's have some more fun and generate something more exciting than a square. Change the 'range' value to 100 and the turn angle to 91. What happened? 
 
-Another iteration: 
+### Another iteration: 
 ```python
 import turtle as t
 for x in range(100):
