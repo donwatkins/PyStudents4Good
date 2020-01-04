@@ -26,7 +26,7 @@ turtle.right(90)
 turtle.forward(100)
 turtle.right(90)
 turtle.forward(100)
-
+```
 ### Now we want to write our first program using the the 'turtle' function and save it.  We begin by clicking on the 'New' button in Mu. Then we enter "import turtle.' Add a comment at the top of your file. What are the next lines of code? Be sure to 'Save' and then 'Run' your program. 
 ![First Turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/FirstTurtleProgram.png)
 ---
@@ -42,7 +42,7 @@ import turtle as t
 for x in range(100):
   t.forward(x)
   t.left(91)
-
+```
 
 
 
