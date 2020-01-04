@@ -26,7 +26,7 @@ There are many functions in Python. We have already used the 'print' function. N
 * turtle.right(90)
 * turtle.forward(100)
 
-### Now we want to write our first program using the the 'turtle' function and savc it. We begin by clicking on the 'New' button in Mu. Then we enter "import turtle.' Add a comment at the top of your file. What are the next lines of code? Be sure to 'Save' and then 'Run' your program. 
+### Now we want to write our first program using the the 'turtle' function and save it.  We begin by clicking on the 'New' button in Mu. Then we enter "import turtle.' Add a comment at the top of your file. What are the next lines of code? Be sure to 'Save' and then 'Run' your program. 
 ![First Turtle](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/FirstTurtleProgram.png)
 
 
