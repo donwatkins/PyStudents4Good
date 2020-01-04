@@ -65,7 +65,8 @@ Variables are like labels. We can add, subtract, multiply and divide variables t
 * print(cost_per_pizza)
 * print(total_cost)
 
-
+### Strings 
+Strings are collection of letters and numbers. Your name could be string. Your address could be another string. Your age could be another string. We can use variables to represent a string. Foe example "your_name = "John"" , your_age = 12. Notice that strings with integers are not encloseed in quotations but text strings are. 
 
 
 
