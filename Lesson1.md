@@ -66,7 +66,17 @@ Variables are like labels. We can add, subtract, multiply and divide variables t
 * print(total_cost)
 
 ### Strings 
-Strings are collection of letters and numbers. Your name could be string. Your address could be another string. Your age could be another string. We can use variables to represent a string. Foe example "your_name = "John"" , your_age = 12. Notice that strings with integers are not encloseed in quotations but text strings are. 
+Strings are collection of letters and numbers. Your name could be string. Your address could be another string. Your age could be another string. We can use variables to represent a string. Foe example "your_name = "John"" , your_age = 12. Notice that strings with integers are not encloseed in quotations but text strings are. Enter these string examples in the REPL. 
+
+* my_name = "your name"
+* my_address = "your address" 
+* my_age = 11 (whatever your age is) 
+
+Once the variabele is assigned you can retrieve the value by entering the variable at the prompt or by using the 'print' function. Example: 
+* print(my_name)
+* print(my_age)
+
+
 
 
 
