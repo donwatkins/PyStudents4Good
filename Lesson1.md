@@ -55,6 +55,7 @@ ____
 ---
 ## Variables
 ### Variables play an important role in Python. They hold values that we assign to them. Some variables are "string' variables that contain strings of text. There are variables that contain integers. Those are numeric values like 1,2,100, etc. There also variables that contain floating point values like "1.5, 2.10, 3.15" etc. 
+![Variables by Type](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/variable_types.png)
 
 
 
