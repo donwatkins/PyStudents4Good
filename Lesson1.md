@@ -58,12 +58,12 @@ ____
 ![Variables by Type](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/variable_types.png)
 
 Variables are like labels. We can add, subtract, multiply and divide variables that are type integer and float.We can add string variables to each other but we cannot subtract, multiply or divide them. Let's assign some variables and perform some mathematics with them. 
-pizzas = 10
-cost_per_pizza = 4.00
-total_cost = pizzas * cost_per_pizza
-print(pizzas)
-print(cost_per_pizza)
-print(total_cost)
+* pizzas = 10
+* cost_per_pizza = 4.00
+* total_cost = pizzas * cost_per_pizza
+* print(pizzas)
+* print(cost_per_pizza)
+* print(total_cost)
 
 
 
