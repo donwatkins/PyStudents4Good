@@ -1,8 +1,9 @@
 # Strings, lists and the turtle
 Lists are more powerful than strings. Lists are enclosed in brackets []. A list might contain all the students in this class. 
-```python
+``` python
 class_list = ["Kathy", "Marla", "Margaret"]
 colors = ["red", "blue", "orange"]
+class_list.append("John")
 ```
 ### We can add to a list.
 *Use the 'class_list.append() command. 
