@@ -13,4 +13,10 @@ Now we are going to learn more. In an earlier lesson we learned that we can crea
 ```python
 colors = ["red", "yellow", "blue", "green"]
 ```
+# We want to make the colors really stand out so we are going to change the backgroud color to black. 
+We do that by using the 'bgcolor' method. Our code will look like this. 
+```python
+import turtle as t
+t.bgcolor("black")
+```
 
