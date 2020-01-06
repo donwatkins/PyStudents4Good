@@ -48,23 +48,25 @@ ____
 ![Hello World](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/HelloWorld.png)
 
 ### Use the "print" function to enter your name in the REPL. Here is the sample code: 
-* print("Your Name")
-* print("I go to Olean Middle School")
-* print("I like chocolate")
-
+```python
+print("Your Name")
+print("I go to Olean Middle School")
+print("I like chocolate")
+```
 ---
 ## Variables
  Variables play an important role in Python. They hold values that we assign to them. Some variables are "string' variables that contain strings of text. There are variables that contain integers. Those are numeric values like 1,2,100, etc. There also variables that contain floating point values like "1.5, 2.10, 3.15" etc. 
 ![Variables by Type](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/variable_types.png)
 
 Variables are like labels. We can add, subtract, multiply and divide variables that are type integer and float.We can add string variables to each other but we cannot subtract, multiply or divide them. Using the REPL, let's assign some variables and perform some mathematics with them. 
-* pizzas = 10
-* cost_per_pizza = 4.00
-* total_cost = pizzas * cost_per_pizza
-* print(pizzas)
-* print(cost_per_pizza)
-* print(total_cost)
-
+```python
+pizzas = 10
+cost_per_pizza = 4.00
+total_cost = pizzas * cost_per_pizza
+print(pizzas)
+print(cost_per_pizza)
+print(total_cost)
+```
 ### Strings 
 Strings are collection of letters and numbers. Your name could be string. Your address could be another string. Your age could be another string. We can use variables to represent a string. Foe example "your_name = "John"" , your_age = 12. Notice that strings with integers are not encloseed in quotations but text strings are. Enter these string examples in the REPL. 
 
