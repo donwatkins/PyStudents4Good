@@ -22,7 +22,7 @@ for x in range(100):
   t.pencolor(colors[x%4])
   t.forward(x)
   t.left(91)
-  ```
+```
   
 ### We want to make the colors really stand out so we are going to change the backgroud color to black. 
 We do that by using the 'bgcolor' method. Our code will look like this. 
@@ -34,9 +34,7 @@ for x in range(100):
   t.pencolor(colors[x%4])
   t.forward(x)
   t.left(91)
-  ```
-  
-  ```
+```
 ### We can change from a square spiral to a circle spiral by using a new iteration. 
 ```python
 import turtle as t
