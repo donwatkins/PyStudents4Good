@@ -70,15 +70,17 @@ for x in range(100):
 ```python
 import turtle as t
 t.pencolor("red")
-for x in range(500):
+for x in range(100):
     t.forward(x)
     t.left(91)
-t.setpos(30,30)
+t.setpos(60,60)
 t.pencolor("blue")
-for x in range(500):
+for x in range(100):
     t.forward(x)
     t.right(91)
  ```
+ 
+ ### Have some fun! Change the inputs to your own values. What have you learned?
  
 
 
