@@ -67,6 +67,13 @@ for x in range(100):
   t.left(90)
   ```
 ### What happened? 
+```python
+from turtle import *
+for x in range(500):
+    forward(x)
+    left(91)
+ ```
+ 
 
 
 
