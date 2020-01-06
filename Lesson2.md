@@ -68,10 +68,16 @@ for x in range(100):
   ```
 ### What happened? 
 ```python
-from turtle import *
+import turtle as t
+t.pencolor("red")
 for x in range(500):
-    forward(x)
-    left(91)
+    t.forward(x)
+    t.left(91)
+t.setpos(30,30)
+t.pencolor("blue")
+for x in range(500):
+    t.forward(x)
+    t.right(91)
  ```
  
 
