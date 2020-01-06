@@ -35,5 +35,15 @@ for x in range(100):
   t.forward(x)
   t.left(91)
   ```
-
+### We can change from a square spiral to a circle spiral by using a new iteration. 
+```python
+import turtle as t
+t.bgcolor("black")
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+  t.pencolor(colors[x%4])
+  t.circle(x)
+  t.left(91)
+  ```
+  
 
