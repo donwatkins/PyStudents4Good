@@ -45,5 +45,16 @@ for x in range(100):
   t.circle(x)
   t.left(91)
   ```
+  ### We can make this happen faster by adding a speed to our work:
+  ```python 
+  import turtle as t
+t.bgcolor("black")
+t.speed(0)
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+  t.pencolor(colors[x%4])
+  t.circle(x)
+  t.left(91)
+  
   
 
