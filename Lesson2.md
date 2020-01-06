@@ -15,6 +15,14 @@ Entering code in the REPL can give us immediate feedback but we need to write th
 ### After clicking on the 'Save' button you will see a dialog box and you will be given the opportunity to save your file. A good name might be 'first.py.' When saving Python programs be sure to end with the file extension '.py'. 
 ![Save my first program](https://github.com/donwatkins/PyGirls4Good/blob/master/Images/SaveMyFirstProgram.png)
 ### After saving the program then click on the 'Run' button to see the output of your program. 
+#### Here is a simple Python program that uses some of what we have been learning. 
+
+```python
+# What is your name
+name = input("What is your name?")
+age = input("What is your age?")
+print("Hello " + name + "you are " + age + "years old.)
+```
 
 ## Turtle function
 There are many functions in Python. We have already used the 'print' function. Now we are going to use the 'turtle' function. We have to import it first. We do that by entering 'import turtle' in the REPL. 
