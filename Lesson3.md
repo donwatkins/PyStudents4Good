@@ -49,6 +49,7 @@ for x in range(100):
   ```python
 import turtle as t
 t.bgcolor("black")
+t.speed(0)
 colors = ["red", "yellow", "blue", "green"]
 for x in range(100):
     t.pencolor(colors[x%4])
