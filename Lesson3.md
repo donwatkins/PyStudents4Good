@@ -29,6 +29,13 @@ We do that by using the 'bgcolor' method. Our code will look like this.
 ```python
 import turtle as t
 t.bgcolor("black")
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+  t.pencolor(colors[x%4])
+  t.forward(x)
+  t.left(91)
+  ```
+  
 ```
 
 
