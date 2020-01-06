@@ -56,8 +56,7 @@ for x in range(100):
     t.circle(x)
     t.left(91)
   ```
-### We have been using variables to change the color, size, and turning
-### angle of our shapes. Now let's change the number of sides in those shapes. 
+### We have been using variables to change the color, size, and turning angle of our shapes. Now let's change the number of sides in those shapes. Note that we have added a couple of colors to this latest change. Remember to add a comment at the top of your code. 
 ```python
 import turtle as t
 t.bgcolor("black")
