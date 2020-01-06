@@ -25,7 +25,7 @@ print("Hello " + name + " you are " + age + " years old.)
 ```
 ```python
 # A simple poem
-print("This program will help you write a simple poem")
+print("This program will help you write a simple three line poem")
 first_line  = input("What is the first line of the poem?")
 second_line = input("What is the second line of the poem?")
 third_line = input("What is the third line of the poem?")
