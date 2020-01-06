@@ -75,7 +75,6 @@ for x in range(360):
 # Color Spiral
 import turtle as t
 t.bgcolor("black")
-# You can choose between 2 and 6 sides for some cool shapes!
 sides = eval(input("Enter a number of sides between 2 and 6: "))
 colors = ["red", "yellow", "blue", "orange", "green", "purple"]
 for x in range(360):
