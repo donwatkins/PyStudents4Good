@@ -21,8 +21,19 @@ Entering code in the REPL can give us immediate feedback but we need to write th
 # What is your name
 name = input("What is your name?")
 age = input("What is your age?")
-print("Hello " + name + "you are " + age + "years old.)
+print("Hello " + name + " you are " + age + " years old.)
 ```
+```python
+# A simple poem
+print("This program will help you write a simple poem")
+first_line  = input("What is the first line of the poem?")
+second_line = input("What is the second line of the poem?")
+third_line = input("What is the third line of the poem?")
+print(first_line)
+print(second_line)
+print(third_line)
+``` 
+
 
 ## Turtle function
 There are many functions in Python. We have already used the 'print' function. Now we are going to use the 'turtle' function. We have to import it first. We do that by entering 'import turtle' in the REPL. 
