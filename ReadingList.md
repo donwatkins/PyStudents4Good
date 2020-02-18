@@ -12,3 +12,5 @@
 
 ### [Invent with Python](https://inventwithpython.com/) -- Al Sweigart
 
+### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart
+
