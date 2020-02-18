@@ -1,6 +1,6 @@
 ### Reading List for PyGirls for Good
 
-### Linux for Makers](https://www.amazon.com/dp/1680451839/ref=cm_sw_r_cp_ep_dp_cZk6Bb5E9XZWR)-- Aaron Newcomb
+### [Linux for Makers](https://www.amazon.com/dp/1680451839/ref=cm_sw_r_cp_ep_dp_cZk6Bb5E9XZWR)-- Aaron Newcomb
 
 ### [Adventures in Raspberry Pi](https://www.amazon.com/Adventures-Raspberry-Carrie-Anne-Philbin/dp/1119269067/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)-- Carrie Anne Philbin
 
