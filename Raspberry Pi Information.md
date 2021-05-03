@@ -7,6 +7,7 @@ The Raspberry Pi is a single board computer. "The Raspberry Pi is a series of sm
 
 
   * [Raspberry Pi 400](https://www.raspberrypi.org/products/raspberry-pi-400/)
+  * [Raspberry Pi Documentation](https://www.raspberrypi.org/documentation/)
   * [Raspberry Pi Installation](https://github.com/raspberrypi/documentation/blob/master/installation/README.md)
   * [Raspberry Pi Usage Guide](https://github.com/raspberrypi/documentation/blob/master/usage/README.md)
 
