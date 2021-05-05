@@ -1,4 +1,4 @@
-### Reading List for PyGirls for Good
+## Learning Resources
 
 ### [Linux for Makers](https://www.amazon.com/dp/1680451839/ref=cm_sw_r_cp_ep_dp_cZk6Bb5E9XZWR)-- Aaron Newcomb
 
