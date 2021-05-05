@@ -14,3 +14,5 @@
 
 ### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart
 
+### [Python Trinket](https://trinket.io/python) 
+
