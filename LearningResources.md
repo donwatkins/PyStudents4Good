@@ -14,3 +14,7 @@
 
 ### [Python Trinket](https://trinket.io/python) -- Share Code from any Device
 
+### [Opensource.com Raspberry Pi Cheat Sheet](https://opensource.com/downloads/getting-started-raspberry-pi-cheat-sheet)
+
+### [Opensource.com Python 3.7 Cheat Sheet](https://opensource.com/downloads/cheat-sheet-python-37-beginners)
+
