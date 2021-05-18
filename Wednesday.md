@@ -101,7 +101,7 @@ for x in range(100):
  ---
  1. Change the background to black
  2. Change the background to blue
- 3. Change a color(s)d in the colors list
+ 3. Change a color(s) in the colors list
 
 
 
