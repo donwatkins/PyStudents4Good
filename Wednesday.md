@@ -32,6 +32,26 @@ print(third_line)
 3. Change the pensize to 3
 
 ----
+----
+# New Turtle Learning
+
+```
+# A new spiral
+import turtle as t
+t.shape("turtle")
+t.pencolor("blue")
+t.pensize(4)
+t.speed(5)
+
+for x in range(4):
+t.forward(100)
+t.left(90)
+```
+1. Change the color to green. 
+2. Change the color to red.
+3. Change the pensize to make the line thinner.
+4. Change the turtle shape.(“arrow”, “turtle”, “circle”, “square”, “triangle”, “classic”.)
+
 
 
 
