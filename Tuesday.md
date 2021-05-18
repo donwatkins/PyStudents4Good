@@ -151,7 +151,17 @@ turtle.right(90)
 turtle.forward(100)
 turtle.right(90)
 ```
+#### Use a "for loop" to draw a square easier
+```
+# Draw square with for loop
 
+import turtle
+t=turtle.Pen()
+for i in range(4):
+    t.forward(100)
+    t.right(90)
+    ```
+    
 
 
 
