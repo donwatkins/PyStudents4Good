@@ -33,7 +33,8 @@ print(third_line)
 
 ----
 ----
-# New Turtle Learning
+
+### New Turtle Learning
 
 ```
 # A new spiral
