@@ -102,6 +102,16 @@ print("Hi, ", name)
 ```
 Could you build on that? What could you add? 
 
+#### Having fun with Python
+```
+# Fun with words
+adjective = input("Please enter an adjective: ")
+noun = input("Please enter a noun: ")
+verb = input("Please enter a verb ending in -ed: ")
+print("Your MadLib:")
+print("The", adjective, noun, verb, "over the lazy brown dog.")
+```
+---
 #### Turtle Graphics in Python
 1. Import the Turtle module
 2. Talk "Turtle" to Python
