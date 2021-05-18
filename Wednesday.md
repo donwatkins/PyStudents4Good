@@ -52,6 +52,8 @@ t.left(90)
 2. Change the color to red.
 3. Change the pensize to make the line thinner.
 4. Change the turtle shape.(“arrow”, “turtle”, “circle”, “square”, “triangle”, “classic”.)
+5. Make the turtle go futher than 100 pixels. 
+6. Change the angle of the turtle turn. 
 
 
 
