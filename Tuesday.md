@@ -135,6 +135,22 @@ turtle.right(90)
 turtle.forward(100)
 turtle.right(90)
 ```
+##### Add a colored pen and pensize
+```
+# TurtleSquare.py with color and pensize
+
+import turtle
+turtle.pencolor("blue")
+turtle.pensize(2)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+```
 
 
 
