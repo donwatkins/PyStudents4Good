@@ -198,10 +198,16 @@ for x in range(100):
 import turtle
 t = turtle.Pen()
 for x in range(100):
- t.circle(x)
- t.left(91)
+    t.circle(x)
+    t.left(91)
+   
  ```
  ##### Change the values and have some fun. 
+ 1. Speed up the turtle with 't.speed(0)'
+ 2. Change the color of the pen with 't.pencolor("blue")
+ 3. Change the pen size with 't.pensize(4)'
+ 4. Increase the circle with an exponent
+ 5. Change the direction of the turtle with 't.right' 
  
  
     
