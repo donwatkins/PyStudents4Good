@@ -55,6 +55,18 @@ t.left(90)
 5. Make the turtle go futher than 100 pixels. 
 6. Change the angle of the turtle turn. 
 
+### Turtle Spiral
+```
+import turtle as t
+for x in range(100):
+ t.circle(x)
+ t.left(91)
+ ```
+ 1. Change the 't.circle' value to x**2
+ 2. Change the turn from left to right = t.right(91)
+ 3.  Add color to the spiral with "turtle.pencolor"
+ 4.  Change the background color with "t.bgcolor" to blue. 
+
 
 
 
