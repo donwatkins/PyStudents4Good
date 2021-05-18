@@ -93,3 +93,10 @@ type(pi)
 #### Saving programs
 Click on the "+" sign in the Mu Editor. This opens a new program writing window. Use a "#" on the first line to add a comment about the purpose of the program or to explain code. All Python programs are saved with a ".py" added to the end of the program. 
 
+#### First program
+```
+# YourName.py
+name = input("What is your name?\n")
+print("Hi, ", name)
+
+
