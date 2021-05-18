@@ -171,7 +171,31 @@ for i in range(4):
     t.forward(100)
     t.right(90)
     
+
+    
 ```
+#### Draw a square spiral
+
+```
+# SquareSpiral1.py - Draws a square spiral
+import turtle
+t = turtle.Pen()
+for x in range(100):
+ t.forward(x)
+ t.left(90)
+ ```
+ ##### Now change the input values.
+ ```
+ # SquareSpiral1.py - Draws a square spiral
+import turtle
+t = turtle.Pen()
+for x in range(100):
+ t.forward(x*2)
+ t.left(94)
+ ```
+ 
+ 
+ 
     
 
 
