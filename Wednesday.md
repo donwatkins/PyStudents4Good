@@ -78,7 +78,29 @@ for x in range(100):
     t.left(91)
 ```
 ---
-    
+#### Try a new color spiral using a list of colors.
+```
+import turtle as t
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+ t.pencolor(colors[x%4])
+ t.forward(x)
+ t.left(91)
+```
+ ---`
+ 
+ #### Multi-color spiral
+ ```
+import turtle as t
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+ t.pencolor(colors[x%4])
+ t.circle(x)
+ t.left(91)
+ 
+---
+
+
 
 
 
