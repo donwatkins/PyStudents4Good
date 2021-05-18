@@ -97,8 +97,11 @@ for x in range(100):
  t.pencolor(colors[x%4])
  t.circle(x)
  t.left(91)
- 
----
+ ```
+ ---
+ 1. Change the background to black
+ 2. Change the background to blue
+ 3. Change a color(s)d in the colors list
 
 
 
