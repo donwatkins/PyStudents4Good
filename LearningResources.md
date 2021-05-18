@@ -18,3 +18,7 @@
 
 ### [Opensource.com Python 3.7 Cheat Sheet](https://opensource.com/downloads/cheat-sheet-python-37-beginners)
 
+### [Python for Everyone](https://www.py4e.com/lessons)
+
+
+
