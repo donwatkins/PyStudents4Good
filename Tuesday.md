@@ -193,7 +193,15 @@ for x in range(100):
  t.forward(x*2)
  t.left(94)
  ```
- 
+ ##### Now a circle spiral
+ ```
+import turtle
+t = turtle.Pen()
+for x in range(100):
+ t.circle(x)
+ t.left(91)
+ ```
+ ##### Change the values and have some fun. 
  
  
     
