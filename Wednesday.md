@@ -67,6 +67,18 @@ for x in range(100):
  3.  Add color to the spiral with "turtle.pencolor"
  4.  Change the background color with "t.bgcolor" to blue. 
 
+#### New Spiral 
+```
+import turtle as t
+t.speed(0)
+t.pencolor("red")
+t.bgcolor("black")
+for x in range(100):
+    t.circle(x*2)
+    t.left(91)
+    ```
+
+
 
 
 
