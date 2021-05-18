@@ -1,4 +1,4 @@
-# Introduction to Python programming - Day 2
+# Introduction to Python programming - Day 3
 
 ### Reviewing what we learned. 
 
