@@ -103,6 +103,40 @@ print("Hi, ", name)
 Could you build on that? What could you add? 
 
 #### Turtle Graphics in Python
+1. Import the Turtle module
+2. Talk "Turtle" to Python
+
+```
+# TurtleSquare
+import turtle
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+```
+##### What happened? 
+
+Let's add some color to our pen.
+```
+# TurtleSquare.py with color
+
+import turtle
+turtle.pencolor("blue")
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.right(90)
+```
+
+
 
 
 
