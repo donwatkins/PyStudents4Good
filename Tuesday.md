@@ -99,4 +99,11 @@ Click on the "+" sign in the Mu Editor. This opens a new program writing window.
 name = input("What is your name?\n")
 print("Hi, ", name)
 
+```
+Could you build on that? What could you add? 
+
+#### Turtle Graphics in Python
+
+
+
 
