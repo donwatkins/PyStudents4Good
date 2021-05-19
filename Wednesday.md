@@ -150,7 +150,10 @@ for x in range(360):
 ```
 1. Change the number of sides and run the program again. 
 2. What happened?
-3. Change the background color to "blue". 
+3. Change the background color to "blue".
+4. Change line 5 of the program to read:  sides = eval(input("Enter a number of sides between 2 and 6: "))
+5. Save it! Run it! 
+6. What happened? 
 
 ---
 
