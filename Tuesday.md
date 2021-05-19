@@ -1,4 +1,5 @@
 # Introduction to Python programming - Day 2
+#### Some code examples come from [Teach Your Kids to Code](http://teachyourkidstocode.com/) by Dr. Bryson Payne.
 
 ### Reviewing what we learned. 
 
