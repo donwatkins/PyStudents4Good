@@ -157,4 +157,21 @@ for x in range(360):
 
 ---
 
+#### Function are blocks of code we can use over and over again. Here is an example of how we create a function to draw ColorSquareSpiral.py
+```
+# ColorSquareSpiral function
+def ColorSquareSpiral():
+    
+    import turtle as t
+    t.speed(0)
+    t.bgcolor("black")
+    colors = ["red", "yellow", "blue", "green", "orange"]
+    for x in range(200):
+        t.pencolor(colors[x%5])
+        t.forward(x)
+        t.left(91)
+```
+1. Save the code and give  it a name like 'ColorSquareSpiralFunction.py. 
+2. Open up the 'REPL' and enter 'ColorSquareSpiral()' and press enter. 
+3. What happened?
 
