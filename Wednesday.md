@@ -125,9 +125,8 @@ for x in range(100):
 #### Now we are going to use the same list of colors to draw a spirals. 
 ```
 # ColorCircleSpiral.py
-import turtle
-t = turtle.Pen()
-turtle.bgcolor("black")
+import turtle as t
+t.bgcolor("black")
 colors = ["red", "yellow", "blue", "green"]
 for x in range(100):
  t.pencolor(colors[x%4])
