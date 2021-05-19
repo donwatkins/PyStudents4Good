@@ -166,8 +166,7 @@ turtle.right(90)
 ```
 # Draw square with for loop
 
-import turtle
-t=turtle.Pen()
+import turtle as t
 for i in range(4):
     t.forward(100)
     t.right(90)
@@ -179,8 +178,7 @@ for i in range(4):
 
 ```
 # SquareSpiral1.py - Draws a square spiral
-import turtle
-t = turtle.Pen()
+import turtle as t
 for x in range(100):
  t.forward(x)
  t.left(90)
@@ -188,16 +186,14 @@ for x in range(100):
  ##### Now change the input values.
  ```
  # SquareSpiral1.py - Draws a square spiral
-import turtle
-t = turtle.Pen()
+import turtle as t
 for x in range(100):
  t.forward(x*2)
  t.left(94)
  ```
  ##### Now a circle spiral
  ```
-import turtle
-t = turtle.Pen()
+import turtle as t
 for x in range(100):
     t.circle(x)
     t.left(91)
