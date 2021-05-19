@@ -134,6 +134,23 @@ for x in range(100):
  t.left(91)
 ```
 ---
+#### Let's have some more fun with variables. In this program we are going to use the variable 'sides' to change the number of sides we draw each time. Write your program, save it and then run. 
+```
+# ColorSpiral.py
+import turtle as t
+t.bgcolor("black")
+# You can choose between 2 and 6 sides for some cool shapes!
+sides = 6
+colors = ["red", "yellow", "blue", "orange", "green", "purple"]
+for x in range(360):
+ t.pencolor(colors[x%sides])
+ t.forward(x * 3/sides + x)
+ t.left(360/sides + 1)
+ t.width(x*sides/200)
+```
+1. Change the number of sides and run the program again. 
+2. What happened?
 
+---
 
 
