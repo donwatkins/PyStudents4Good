@@ -107,18 +107,34 @@ for x in range(100):
 
 #### [] = The square brackets indicate a 'list' in Python. Objects in lists can be reordered. In this next spiral we are going to use a list of colors which we will circulate through which will add more color to our program. Notice that in this list the objects are enclosed in "double quotes." 
 ```
-ColorSquareSpiral.py
-import turtle
-t = turtle.Pen()
+# ColorSquareSpiral.py
+import turtle as t
 colors = ["red", "yellow", "blue", "green"]
 for x in range(100):
  t.pencolor(colors[x%4])
  t.forward(x)
  t.left(91)
  ```
- 
-
-
+---
+1. Add a color to the list and be sure to change the 't.pencolor(colors[x%5])
+2. Other colors you can use are "orange" "purple" "black"
+3. change t.forward to (x*2), x**2 
+4. change the direction of the turn to right
+5. change the range to 500
+----
+#### Now we are going to use the same list of colors to draw a spirals. 
+```
+# ColorCircleSpiral.py
+import turtle
+t = turtle.Pen()
+turtle.bgcolor("black")
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+ t.pencolor(colors[x%4])
+ t.circle(x)
+ t.left(91)
+```
+---
 
 
 
