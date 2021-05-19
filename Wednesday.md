@@ -150,6 +150,7 @@ for x in range(360):
 ```
 1. Change the number of sides and run the program again. 
 2. What happened?
+3. Change the background color to "blue". 
 
 ---
 
