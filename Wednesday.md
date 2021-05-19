@@ -157,7 +157,7 @@ for x in range(360):
 
 ---
 
-#### Function are blocks of code we can use over and over again. Here is an example of how we create a function to draw ColorSquareSpiral.py
+#### Function are blocks of code we can use over and over again. Here is an example of how we create a function to draw ColorSquareSpiral.py. We create functions in Python using the 'def' argument. 
 ```
 # ColorSquareSpiral function
 def ColorSquareSpiral():
@@ -172,6 +172,7 @@ def ColorSquareSpiral():
         t.left(91)
 ```
 1. Save the code and give  it a name like 'ColorSquareSpiralFunction.py. 
-2. Open up the 'REPL' and enter 'ColorSquareSpiral()' and press enter. 
-3. What happened?
+2. 'Run' the code. Then open the REPL.
+3. Open up the 'REPL' and enter 'ColorSquareSpiral()' and press enter. 
+4. What happened?
 
