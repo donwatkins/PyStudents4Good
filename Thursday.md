@@ -26,6 +26,14 @@ for x in range(360):
 ---
 
 #### Function are blocks of code we can use over and over again. Here is an example of how we create a function to draw ColorSquareSpiral.py. We create functions in Python using the 'def' argument. 
+
+```
+def my_function():
+  print("Hello from a function")
+  ```
+  #### Run the function and then enter 'my_function()' in the REPL. 
+  1. What was the output? 
+
 ```
 # ColorSquareSpiral function
 def ColorSquareSpiral():
