@@ -103,6 +103,21 @@ for x in range(100):
  2. Change the background to blue
  3. Change a color(s) in the colors list
 
+---
+
+#### [] = The square brackets indicate a 'list' in Python. Objects in lists can be reordered. In this next spiral we are going to use a list of colors which we will circulate through which will add more color to our program. Notice that in this list the objects are enclosed in "double quotes." 
+```
+ColorSquareSpiral.py
+import turtle
+t = turtle.Pen()
+colors = ["red", "yellow", "blue", "green"]
+for x in range(100):
+ t.pencolor(colors[x%4])
+ t.forward(x)
+ t.left(91)
+ ```
+ 
+
 
 
 
