@@ -279,6 +279,46 @@ for i in range(7):
 t.hideturtle()
 ```
 ---
+ #### Draw a color filled star
+ ```
+ # Color Filled Star
+
+import turtle as t
+ 
+# function to draw
+# colored star
+def colored_star():
+     
+    # size of star
+    size = 80
+     
+    # object color
+    t.color("red")
+     
+    # object width
+    t.width(4)
+     
+    # angle to form star
+    angle = 120
+     
+    # color to fill
+    t.fillcolor("yellow")
+    t.begin_fill()
+     
+    # form star
+    for side in range(5):
+        t.forward(size)
+        t.right(angle)
+        t.forward(size)
+        t.right(72 - angle)
+         
+    # fill color
+    t.end_fill()
+ 
+# Driver code
+colored_star()
+```
+---
  
  
 
