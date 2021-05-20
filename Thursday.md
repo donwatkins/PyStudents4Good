@@ -210,7 +210,23 @@ for count in range(200):
   t.right(135)
   t.color(color) # Why is color spelt like this?
   length = length + 5
+  ```
+  ---
   
+  #### Card game using random function
+  
+  ```
+  # Card Game
+import random
+faces = ["Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace"]
+suits = ["Hearts", "Clubs", "Spades", "Diamonds"]
+print("Your card choice is.")
+print(random.choice(faces))
+print("Of")
+print(random.choice(suits))
+```
+
+---
 
 
 
