@@ -51,3 +51,145 @@ def ColorSquareSpiral():
 2. 'Run' the code. Then open the REPL.
 3. Open up the 'REPL' and enter 'ColorSquareSpiral()' and press enter. 
 4. What happened?
+
+#### Build a 5 pointed star wtih Python
+
+```
+# Turtle Star
+import turtle as t
+for i in range(5):
+ t.forward(100)
+ t.right(144)
+ ```
+ 1. Change the size of the star. 
+ 2. Change the color of the star
+ 3. Change the color. Change the pen size. 
+
+---
+#### Another Star
+
+```
+# 5 point star with color
+
+import turtle as t 
+ 
+# decide colors
+cir= ['red','green','blue','yellow','purple']
+ 
+# decide pensize
+t.pensize(4)
+ 
+# Draw star pattern
+t.penup()
+t.setpos(-90,30)
+t.pendown()
+for i in range(5):
+    t.pencolor(cir[i])
+    t.forward(200)
+    t.right(144)
+ 
+t.penup()
+t.setpos(80,-140)
+t.pendown()
+ 
+# choose pen color
+t.pencolor("Black")
+t.done()
+```
+#### Make a rainbow with Python
+```
+# Turtle Rainbow
+
+# Import turtle package
+import turtle as t
+ 
+# Creating a turtle screen object
+sc = t.Screen()
+ 
+ 
+# Defining a method to form a semicircle
+# with a dynamic radius and color
+def semi_circle(col, rad, val):
+ 
+    # Set the fill color of the semicircle
+    t.color(col)
+ 
+    # Draw a circle
+    t.circle(rad, -180)
+ 
+    # Move the turtle to air
+    t.up()
+ 
+    # Move the turtle to a given position
+    t.setpos(val, 0)
+ 
+    # Move the turtle to the ground
+    t.down()
+ 
+    t.right(180)
+ 
+ 
+# Set the colors for drawing
+col = ['violet', 'indigo', 'blue',
+       'green', 'yellow', 'orange', 'red']
+ 
+# Setup the screen features
+sc.setup(600, 600)
+ 
+# Set the screen color to black
+sc.bgcolor('black')
+ 
+# Setup the turtle features
+t.right(90)
+t.width(10)
+t.speed(7)
+ 
+# Loop to draw 7 semicircles
+for i in range(7):
+    semi_circle(col[i], 10*(
+      i + 8), -10*(i + 1))
+ 
+# Hide the turtle
+t.hideturtle()
+```
+---
+ #### Draw a color filled star
+ ```
+ # Color Filled Star
+
+import turtle as t
+ 
+# function to draw
+# colored star
+def colored_star():
+     
+    # size of star
+    size = 80
+     
+    # object color
+    t.color("red")
+     
+    # object width
+    t.width(4)
+     
+    # angle to form star
+    angle = 120
+     
+    # color to fill
+    t.fillcolor("yellow")
+    t.begin_fill()
+     
+    # form star
+    for side in range(5):
+        t.forward(size)
+        t.right(angle)
+        t.forward(size)
+        t.right(72 - angle)
+         
+    # fill color
+    t.end_fill()
+ 
+# Driver code
+colored_star()
+```
+---
