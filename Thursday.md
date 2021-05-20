@@ -228,6 +228,18 @@ print(random.choice(suits))
 
 ---
 
+#### Password generator with random
+```
+# Password Generator
+
+import string
+import random
+characters = string.ascii_letters + string.punctuation  + string.digits
+password =  "".join(random.choice(characters) for x in range(random.randint(8,16)))
+print(password)
+```
+---
+
 
 
 #### Code Examples from the Raspberry Pi Foundation. [Raspberry Pi:Teaching Turtles](https://github.com/RaspberryPiFoundation/python-curriculum/blob/master/pl-PL/lessons/Teaching%20Turtles/Teaching%20Turtles.md)
