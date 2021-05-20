@@ -222,7 +222,63 @@ t.pendown()
 t.pencolor("Black")
 t.done()
 ```
+#### Make a rainbow with Python
+```
+# Turtle Rainbow
 
+# Import turtle package
+import turtle as t
+ 
+# Creating a turtle screen object
+sc = t.Screen()
+ 
+ 
+# Defining a method to form a semicircle
+# with a dynamic radius and color
+def semi_circle(col, rad, val):
+ 
+    # Set the fill color of the semicircle
+    t.color(col)
+ 
+    # Draw a circle
+    t.circle(rad, -180)
+ 
+    # Move the turtle to air
+    t.up()
+ 
+    # Move the turtle to a given position
+    t.setpos(val, 0)
+ 
+    # Move the turtle to the ground
+    t.down()
+ 
+    t.right(180)
+ 
+ 
+# Set the colors for drawing
+col = ['violet', 'indigo', 'blue',
+       'green', 'yellow', 'orange', 'red']
+ 
+# Setup the screen features
+sc.setup(600, 600)
+ 
+# Set the screen color to black
+sc.bgcolor('black')
+ 
+# Setup the turtle features
+t.right(90)
+t.width(10)
+t.speed(7)
+ 
+# Loop to draw 7 semicircles
+for i in range(7):
+    semi_circle(col[i], 10*(
+      i + 8), -10*(i + 1))
+ 
+# Hide the turtle
+t.hideturtle()
+```
+---
  
  
 
