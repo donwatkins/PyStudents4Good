@@ -266,7 +266,9 @@ for n in range(50):
  ```
  ---
  
+#### [Welcome to Python](https://www.python.org/)  -- https://www.python.org/
 
+#### [PyCon.US](https://us.pycon.org/2021/about/what-is-pycon/) -- The largest annual gathering of the Python Community
 
 #### Code Examples from the Raspberry Pi Foundation. [Raspberry Pi:Teaching Turtles](https://github.com/RaspberryPiFoundation/python-curriculum/blob/master/pl-PL/lessons/Teaching%20Turtles/Teaching%20Turtles.md)
 ---
