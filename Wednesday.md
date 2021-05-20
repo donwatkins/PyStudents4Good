@@ -176,4 +176,20 @@ def ColorSquareSpiral():
 2. 'Run' the code. Then open the REPL.
 3. Open up the 'REPL' and enter 'ColorSquareSpiral()' and press enter. 
 4. What happened?
+---
+
+#### Build a 5 pointed star wtih Python
+
+```
+# Turtle Star
+import turtle as t
+for i in range(5):
+ t.forward(100)
+ t.right(144)
+ ```
+ 1. Change the size of the star. 
+ 2. Change the color of the star
+ 3. Change the color. Change the pen size. 
+ 
+ 
 
