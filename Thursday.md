@@ -279,7 +279,7 @@ for n in range(50):
 
 ### [Python for Kids](https://www.amazon.com/dp/B00ADX21Z6/ref=cm_sw_em_r_mt_dp_U_fqhSDbFGRZZJ2) -- Jason Briggs
 
-### [Code this Game](https://us.macmillan.com/books/9781250306692) -- https://us.macmillan.com/books/9781250306692
+### [Code this Game](https://us.macmillan.com/books/9781250306692) -- https://us.macmillan.com/books/9781250306692 - Meg Ray
 
 ### [Invent with Python](https://inventwithpython.com/) -- Al Sweigart https://inventwithpython.com/
 
