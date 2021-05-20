@@ -279,7 +279,9 @@ for n in range(50):
 
 ### [Python for Kids](https://www.amazon.com/dp/B00ADX21Z6/ref=cm_sw_em_r_mt_dp_U_fqhSDbFGRZZJ2) -- Jason Briggs
 
-### [Invent with Python](https://inventwithpython.com/) -- Al Sweigart
+### [Code this Game](https://us.macmillan.com/books/9781250306692) -- https://us.macmillan.com/books/9781250306692
+
+### [Invent with Python](https://inventwithpython.com/) -- Al Sweigart https://inventwithpython.com/
 
 ### [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart
 
@@ -289,7 +291,12 @@ for n in range(50):
 
 ### [Opensource.com Python 3.7 Cheat Sheet](https://opensource.com/downloads/cheat-sheet-python-37-beginners)
 
-### [Python for Everyone](https://www.py4e.com/lessons)
+### [Python for Everyone](https://www.py4e.com/lessons)https://www.py4e.com/lessons
+
+### [Making Games with Python](http://inventwithpython.com/pygame/) - http://inventwithpython.com/pygame/
+
+
+
 
 
 
