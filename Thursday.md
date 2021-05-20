@@ -192,6 +192,27 @@ def colored_star():
 # Driver code
 colored_star()
 ```
----)ples from the Raspberry Pi Foundation
-[Raspberry Pi:Teaching Turtles](https://github.com/RaspberryPiFoundation/python-curriculum/blob/master/pl-PL/lessons/Teaching%20Turtles/Teaching%20Turtles.md)
+---
+#### Random color choices
+```
+import turtle as t
+import random
+
+colors  = ["red","green","blue","orange","purple","pink","yellow"] # Make a list of colors to picvk from
+
+t.width(10) #What does this line do?
+
+
+length = 10
+for count in range(200):
+  color = random.choice(colors) #Choose a random color
+  t.forward(length)
+  t.right(135)
+  t.color(color) # Why is color spelt like this?
+  length = length + 5
+  
+
+
+
+#### Code Examples from the Raspberry Pi Foundation. [Raspberry Pi:Teaching Turtles](https://github.com/RaspberryPiFoundation/python-curriculum/blob/master/pl-PL/lessons/Teaching%20Turtles/Teaching%20Turtles.md)
 
