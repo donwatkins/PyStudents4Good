@@ -192,4 +192,6 @@ def colored_star():
 # Driver code
 colored_star()
 ```
----
+---)ples from the Raspberry Pi Foundation
+[Raspberry Pi:Teaching Turtles](https://github.com/RaspberryPiFoundation/python-curriculum/blob/master/pl-PL/lessons/Teaching%20Turtles/Teaching%20Turtles.md)
+
