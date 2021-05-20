@@ -190,6 +190,39 @@ for i in range(5):
  1. Change the size of the star. 
  2. Change the color of the star
  3. Change the color. Change the pen size. 
+
+---
+#### Another Star
+
+```
+# 5 point star with color
+
+import turtle as t 
+ 
+# decide colors
+cir= ['red','green','blue','yellow','purple']
+ 
+# decide pensize
+t.pensize(4)
+ 
+# Draw star pattern
+t.penup()
+t.setpos(-90,30)
+t.pendown()
+for i in range(5):
+    t.pencolor(cir[i])
+    t.forward(200)
+    t.right(144)
+ 
+t.penup()
+t.setpos(80,-140)
+t.pendown()
+ 
+# choose pen color
+t.pencolor("Black")
+t.done()
+```
+
  
  
 
