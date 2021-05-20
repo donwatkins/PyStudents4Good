@@ -265,15 +265,12 @@ for n in range(50):
         t.left(91)
  ```
  ---
- 
+ # Resources for Learners
 #### [Welcome to Python](https://www.python.org/)  -- https://www.python.org/
 
 #### [PyCon.US](https://us.pycon.org/2021/about/what-is-pycon/) -- The largest annual gathering of the Python Community
 
 #### Code Examples from the Raspberry Pi Foundation. [Raspberry Pi:Teaching Turtles](https://github.com/RaspberryPiFoundation/python-curriculum/blob/master/pl-PL/lessons/Teaching%20Turtles/Teaching%20Turtles.md)
----
-## Resources for Learners
-## Learning Resources
 
 ### [Adventures in Raspberry Pi](https://www.amazon.com/Adventures-Raspberry-Carrie-Anne-Philbin/dp/1119269067/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)-- Carrie Anne Philbin
 
