@@ -26,10 +26,8 @@ print("\n")
 ---
 
 ### Using the 'turtle.write' function
-``` 
-
-# Turtle Write
-
+```
+# turtle write
 import turtle as t
 t.color('deep pink')
 style = ('Courier', 36, 'italic')
