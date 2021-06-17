@@ -25,8 +25,6 @@ print(third_line)
 print("\n")
 ---
 
-
-
 ### Use 'turtle.write'
 ```
 import turtle as t
