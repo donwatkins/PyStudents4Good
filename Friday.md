@@ -25,12 +25,3 @@ print(third_line)
 print("\n")
 ---
 
-### Use 'turtle.write'
-```
-import turtle as t
-t.color('deep pink')
-style = ('Courier', 36, 'italic')
-t.write('Hello Olean 1', font=style, align ='center')
-t.hideturtle()
-
----
