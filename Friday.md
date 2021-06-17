@@ -23,3 +23,13 @@ print(second_line)
 print("\n")
 print(third_line)
 print("\n")
+```
+----
+
+### turtle.write
+```
+import turtle as t
+t.color('deep pink')
+style = ('Courier', 36, 'italic')
+t.write('Hello Franklinville!', font=style, align='center')
+t.hideturtle()
