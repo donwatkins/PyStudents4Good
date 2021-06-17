@@ -27,11 +27,10 @@ print("\n")
 
 ### Using the 'turtle.write' function
 ```
-# turtle write
 import turtle as t
 t.color('deep pink')
 style = ('Courier', 36, 'italic')
-t.write('Hello Olean!', font=style, align='center')
+t.write('Hello Olean 1', font=style, align ='center')
 t.hideturtle()
 
 ---
