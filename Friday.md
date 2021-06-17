@@ -25,7 +25,6 @@ print(third_line)
 print("\n")
 ---
 
-### Using the 'turtle.write' function
 ```
 import turtle as t
 t.color('deep pink')
