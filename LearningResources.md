@@ -22,5 +22,7 @@
 
 ### [Simple Turtle Tutorial](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
 
+### [Modules and Scripts](https://www.pythonmorsels.com/topics/module-vs-script/)
+
 
 
