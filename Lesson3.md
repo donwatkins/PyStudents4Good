@@ -83,9 +83,35 @@ for x in range(360):
     t.left(360/sides + 1)
     t.width(x*sides/200)
 ```
-### The 'random' function is another way to introduce some fun into our Python programs. We can use the 'random' function to generate pseudo random numbers or pick a random choice from a list. Just like the 'turtle' function we have to import 'random' into our Python code. 
-```python
-import random
+---
+
+### Many turtles
+```
+# multiple turtles
+from turtle import *
+
+zari = Turtle()             # create a turtle named zari
+zari.shape("turtle")
+zari.color("blue")
+zari.speed(0)
+zari.penup()
+zari.setpos(90,90)
+zari.pendown()
+for z in range(100):
+    zari.forward(100)
+    zari.left(46)
+zari.penup()
+
+# new turtle named chad
+
+chad = Turtle()             # create a new turtle named chad
+chad.pendown()
+chad.color("orange")        # change the color chad draws with
+chad.speed(0)
+for i in range(100):
+    chad.forward(i)
+    chad.right(47)
+
 ```
 
 
