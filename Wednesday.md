@@ -177,6 +177,29 @@ def ColorSquareSpiral():
 3. Open up the 'REPL' and enter 'ColorSquareSpiral()' and press enter. 
 4. What happened?
 ---
+### Try this code that uses the 'time' module.
+```
+# Experiment with time function
+
+import turtle as t
+import time
+t.speed(0)
+t.pencolor("blue")
+for i in range(100):
+    t.forward(190)
+    t.right(86)
+    
+time.sleep(3)
+t.penup()
+t.setpos(-100,100)
+t.pendown()
+t.pencolor("green")
+for x in range(100):
+    t.forward(190)
+    t.left(86)
+    
+ ```
+ ___
 
 
  
