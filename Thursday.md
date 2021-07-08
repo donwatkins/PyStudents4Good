@@ -18,7 +18,7 @@ t.end_fill()
 ```
 # Fill in square
 import turtle as t
-t.color("##6A5ACD")
+t.color("#6A5ACD")
 t.begin_fill()
 for i in range(4):
    t.forward(150)
