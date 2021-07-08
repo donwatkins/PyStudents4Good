@@ -12,8 +12,20 @@ t.color('#0000FF')
 t.begin_fill()
 t.circle(100)
 t.end_fill()
-
 ````
+### Another example of filling 
+
+```
+# Fill in square
+import turtle as t
+t.color("##6A5ACD")
+t.begin_fill()
+for i in range(4):
+   t.forward(150)
+   t.right(90)
+t.endfill()
+````
+
 ```
 # ColorSpiral.py
 import turtle as t
