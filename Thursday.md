@@ -294,7 +294,7 @@ for n in range(50):
 
 ### [Making Games with Python](http://inventwithpython.com/pygame/) 
 
-### [Simple Turtle Tutorial\(https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
+### [Simple Turtle Tutorial](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
 
 
 
