@@ -26,7 +26,33 @@ for i in range(4):
 t.end_fill()
 ````
 ----
-#### Color Spiral
+#### Draw a color square using 'input'. 
+```
+# Draw a colored square from inputs
+import turtle as t
+  
+# taking input for the side of the square
+side = int(input("Enter the length of the side of the square: "))
+  
+# taking the input for the color
+col = input("Enter the color name or hex value of color(# RRGGBB): ")
+  
+# set the fillcolor
+t.fillcolor(col)
+  
+# start the filling color
+t.begin_fill()
+  
+# drawing the square of side s
+for x in range(4):
+    t.forward(side)
+    t.right(90)
+  
+# ending the filling of the color
+t.end_fill()
+
+````
+#### Draw a Color Spiral
 ```
 # ColorSpiral.py
 import turtle as t
