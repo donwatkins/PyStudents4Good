@@ -23,7 +23,7 @@ t.begin_fill()
 for i in range(4):
    t.forward(150)
    t.right(90)
-t.endfill()
+t.end_fill()
 ````
 
 ```
