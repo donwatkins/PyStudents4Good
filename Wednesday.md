@@ -200,7 +200,8 @@ for x in range(100):
     
  ```
  ___
-
+1. Experiment with changing the position, the pen color and using 'penup' and 'pendown' 
+2. Explore the 'time' module and its methods. 
 
  
  
