@@ -3,6 +3,17 @@
 ----
 
 #### Let's have some more fun with variables. In this program we are going to use the variable 'sides' to change the number of sides we draw each time. Write your program, save it and then run. 
+
+### Using color to fill objects we create.
+````
+# Fill in a circle with color
+import turtle as t
+t.color('#0000FF')
+t.begin_fill()
+t.circle(100)
+t.end_fill()
+```
+---
 ```
 # ColorSpiral.py
 import turtle as t
