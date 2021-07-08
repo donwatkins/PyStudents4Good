@@ -25,7 +25,8 @@ for i in range(4):
    t.right(90)
 t.end_fill()
 ````
-
+----
+#### Color Spiral
 ```
 # ColorSpiral.py
 import turtle as t
