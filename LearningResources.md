@@ -28,6 +28,8 @@
 
 ### [Teach Your Kids to Code Example Code](https://teachyourkidstocode.com/downloads.html)
 
+### [Automate with Python: Free Course](https://youtu.be/PXMJ6FS7llk)
+
 
 ### [Screen Recording Raspberry Pi](https://www.hackster.io/sb-components/screen-recording-in-raspberry-pi-in-7-easy-steps-2192ef)
 
