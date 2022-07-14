@@ -28,6 +28,8 @@
 
 ### [Teach Your Kids to Code Example Code](https://teachyourkidstocode.com/downloads.html)
 
+### [Install Jupyter Notebook on Raspberry Pi](https://www.instructables.com/Jupyter-Notebook-on-Raspberry-Pi/)
+
 ### [Automate with Python: Free Course](https://youtu.be/PXMJ6FS7llk)
 
 
