@@ -34,6 +34,7 @@
 
 ### [Python Color Constants](https://www.webucator.com/article/python-color-constants-module/)
 
+### [Github for Students](https://education.github.com/students)
 
 ### [Screen Recording Raspberry Pi](https://www.hackster.io/sb-components/screen-recording-in-raspberry-pi-in-7-easy-steps-2192ef)
 
