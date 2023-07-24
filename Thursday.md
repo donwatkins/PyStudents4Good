@@ -346,6 +346,8 @@ for n in range(50):
 
 ### [Simple Turtle Tutorial](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
 
+### [Recursion from Al Sweigart](https://inventwithpython.com/recursion/chapter9.html)
+
 
 
 
