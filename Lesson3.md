@@ -130,9 +130,9 @@ for i in range(num_sides):
      
 turtle.done()
 
-...
+```
 ### Fun with words
-...
+```
 
 
 adjective = input("Please enter an adjective: ")
