@@ -11,10 +11,10 @@
 5. Move the turtle forward to draw each line.
 6. Turn the turtle to get it ready to draw the next line. 
 
-```python
+``
 colors = ["red", "yellow", "blue", "green"]
 
-```
+
 ### Here is our code:
 ```
 ```
