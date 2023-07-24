@@ -16,14 +16,13 @@ colors = ["red", "yellow", "blue", "green"]
 ```
 
 ### Here is our code:
-
-`import turtle as t 
-
+```
+```
+import turtle as t 
 colors = ["red", "yellow", "blue", "green"] 
-
 for x in range(100): 
- t.pencolor(colors[x%4]) 
-     t.circle(x) 
-    t.left(91)`
+  t.pencolor(colors[x%4])
+  t.circle(x) 
+  t.left(91)`
 
 
