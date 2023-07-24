@@ -135,7 +135,7 @@ turtle.done()
 ```
 ```
 
-### Fun with words
+## Fun with words
 ```
 ```
 adjective = input("Please enter an adjective: ")
