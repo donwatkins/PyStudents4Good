@@ -137,7 +137,7 @@ turtle.done()
 
 ### Fun with words
 ```
-````
+```
 adjective = input("Please enter an adjective: ")
 noun = input("Please enter a noun: ")
 verb = input("Please enter a verb ending in -ed: ")
