@@ -28,7 +28,7 @@ for x in range(100):
   
 ### We want to make the colors really stand out so we are going to change the backgroud color to black. 
 We do that by using the 'bgcolor' method. Our code will look like this. 
-```python
+```
 import turtle as t
 t.bgcolor("black")
 colors = ["red", "yellow", "blue", "green"]
@@ -38,7 +38,7 @@ for x in range(100):
     t.left(91)
 ```
 ### We can change from a square spiral to a circle spiral by using a new iteration. 
-```python
+```
 import turtle as t
 t.bgcolor("black")
 colors = ["red", "yellow", "blue", "green"]
@@ -48,7 +48,7 @@ for x in range(100):
   t.left(91)
   ```
   ### We can make this happen faster by adding a speed to our work:
-  ```python
+  ```
 import turtle as t
 t.bgcolor("black")
 t.speed(0)
@@ -59,7 +59,7 @@ for x in range(100):
     t.left(91)
   ```
 ### We have been using variables to change the color, size, and turning angle of our shapes. Now let's change the number of sides in those shapes. Note that we have added a couple of colors to this latest change. Remember to add a comment at the top of your code. 
-```python
+```
 import turtle as t
 t.bgcolor("black")
 # You can choose between 2 and 6 sides for some cool shapes!
@@ -72,7 +72,7 @@ for x in range(360):
     t.width(x*sides/200)
 ```
 ### Using the 'eval' function we can add a value for sides without changing our code each time. Here is the code example. 
-```python
+```
 # Color Spiral
 import turtle as t
 t.bgcolor("black")
@@ -88,7 +88,7 @@ for x in range(360):
 ### Multiple Turtles
 
 ```
-```python
+
 
 from turtle import *
 
@@ -117,6 +117,7 @@ for i in range(100):
 ```
 ### Another path of the turtle
 ````
+````
 # Python program to draw hexagon
 # using Turtle Programming
 import turtle
@@ -135,7 +136,8 @@ turtle.done()
 ```
 
 ### Fun with words
-``` 
+```
+````
 adjective = input("Please enter an adjective: ")
 noun = input("Please enter a noun: ")
 verb = input("Please enter a verb ending in -ed: ")
