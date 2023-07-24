@@ -83,11 +83,10 @@ for x in range(360):
     t.left(360/sides + 1)
     t.width(x*sides/200)
 ```
-```
 
-### Many turtles
+### Multiple Turtles
+
 ```
-# multiple turtles
 from turtle import *
 
 zari = Turtle()             # create a turtle named zari
@@ -111,7 +110,6 @@ chad.speed(0)
 for i in range(100):
     chad.forward(i)
     chad.right(47)
-
 ```
 ### Another path of the turtle
 ````
@@ -129,16 +127,16 @@ for i in range(num_sides):
     polygon.right(angle)
      
 turtle.done()
+``` 
 
-```
 ### Fun with words
-```
-
-
+``` 
 adjective = input("Please enter an adjective: ")
 noun = input("Please enter a noun: ")
 verb = input("Please enter a verb ending in -ed: ")
 print("Your MadLib:")
 print("The", adjective, noun, verb, "over the lazy brown dog.")
+
+```
 
 
