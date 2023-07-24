@@ -87,6 +87,8 @@ for x in range(360):
 ### Multiple Turtles
 
 ```
+```python
+
 from turtle import *
 
 zari = Turtle()             # create a turtle named zari
