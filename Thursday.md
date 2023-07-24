@@ -348,6 +348,8 @@ for n in range(50):
 
 ### [Recursion from Al Sweigart](https://inventwithpython.com/recursion/chapter9.html)
 
+### [More Goodies from Al Sweigart](https://inventwithpython.com/recursion/chapter13.html)
+
 
 
 
