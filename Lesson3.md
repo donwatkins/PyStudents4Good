@@ -111,6 +111,7 @@ for i in range(100):
     chad.forward(i)
     chad.right(47)
 ```
+```
 ### Another path of the turtle
 ````
 # Python program to draw hexagon
@@ -127,7 +128,8 @@ for i in range(num_sides):
     polygon.right(angle)
      
 turtle.done()
-``` 
+```
+```
 
 ### Fun with words
 ``` 
