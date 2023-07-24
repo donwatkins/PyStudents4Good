@@ -16,7 +16,8 @@ colors = ["red", "yellow", "blue", "green"]
 
 ```
 ### Here is our code:
-```python
+```
+```
 import turtle as t
 colors = ["red", "yellow", "blue", "green"]
 for x in range(100):
